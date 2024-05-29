@@ -17,10 +17,10 @@ PlayerTest.js: Unit tests for the Player class.
 
 ## Game Rules
 
-# Each player has three attributes: health, strength, and attack.
-# Players attack in turns. The player with lower health starts the fight.
-# Attacker rolls an attack dice and defender rolls a defense dice.
-# Damage dealt is calculated as attack value * attack dice roll.
-# Damage defended is calculated as strength value * defense dice roll.
-# Excess damage reduces the defender's health.
-# The game ends when one player's health reaches zero.
+ Each player has three attributes: health, strength, and attack.
+ Players attack in turns. The player with lower health starts the fight.
+ Attacker rolls an attack dice and defender rolls a defense dice.
+ Damage dealt is calculated as attack value * attack dice roll.
+ Damage defended is calculated as strength value * defense dice roll.
+ Excess damage reduces the defender's health.
+ The game ends when one player's health reaches zero.
