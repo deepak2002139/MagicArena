@@ -1,0 +1,29 @@
+{
+  "name": "magicalarena",
+  "version": "1.0.0",
+  "description": "<!-- Swiggy project for hiring -->\r # # Magical Arena",
+  "main": "src/main/javascript/com/magicalarena/Game.mjs",
+  "scripts": {
+    "test": "mocha src/test/javascript/com/magicalarena/*.mjs"
+  },
+  "keywords": [],
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "sinon": "^11.1.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak2002139/MagicArena.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepak2002139/MagicArena/issues"
+  },
+  "homepage": "https://github.com/deepak2002139/MagicArena#readme"
+}
